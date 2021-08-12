@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+}
+
+.linksBox {
+    height: 50%;
+    width: 25%;
+    border: 2px solid #f7bdbd;
+    margin: 0% 0.2% 0% 9%;
+    float: left;
+}
+
+.linksBox ul {
+    list-style-type: none;
+}
+
+.messageHeading {
+    height: 73px;
+    width: 55%;
+    border: 2px solid #f7bdbd;
+    border-bottom: none;
+    float: left;
+}
+
+.chat-message {
+    height: 400px;
+    overflow-y: scroll; overflow-x: hidden;
+    width: 64%;
+     border-top: 1px solid dodgerblue;
+    word-wrap: break-word;
+    float: left;
+}
